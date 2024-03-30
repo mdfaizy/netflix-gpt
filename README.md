@@ -2,6 +2,12 @@
 
 
 #Features
+-Create React App
+-Configure Taiwaildcss
+-Routeing 
+-Login Page
+-Form Validations
+-useRef Hooks
 Login and signup page
 Browser(after authentication)
      -Header

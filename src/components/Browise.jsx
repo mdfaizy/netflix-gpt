@@ -1,8 +1,10 @@
-
+import Header from './Header';
 
 const Browise = () => {
   return (
-    <div>Browise</div>
+    <div>
+      <Header/>
+    </div>
   )
 }
 
